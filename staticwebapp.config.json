@@ -1,12 +1,4 @@
 {
-    "routes": [
-        {
-            "route": "/index.js",
-            "headers": {
-                "Cache-Control": "public, max-age=15, must-revalidate, no-cache"
-            }
-        }
-    ],
     "navigationFallback": {
         "rewrite": "/index.html"
     }
