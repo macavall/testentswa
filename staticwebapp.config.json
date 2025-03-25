@@ -9,7 +9,7 @@
         }
     },
     "globalHeaders": {
-        "Cache-Control": "public, max-age=3600"
+        "Cache-Control": "public, max-age=15"
     },
     "mimeTypes": {
         ".html": "text/html",
