@@ -3,7 +3,7 @@
         {
             "route": "/index.js",
             "headers": {
-                "Cache-Control": "public, max-age=15"
+                "Cache-Control": "public, max-age=15, must-revalidate, no-cache"
             }
         }
     ],
